@@ -1,0 +1,14 @@
+D:\Pianino2\Pianino2\bin\Debug\net6.0\Pianino2.exe
+D:\Pianino2\Pianino2\bin\Debug\net6.0\Pianino2.deps.json
+D:\Pianino2\Pianino2\bin\Debug\net6.0\Pianino2.runtimeconfig.json
+D:\Pianino2\Pianino2\bin\Debug\net6.0\Pianino2.dll
+D:\Pianino2\Pianino2\bin\Debug\net6.0\Pianino2.pdb
+D:\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.AssemblyInfoInputs.cache
+D:\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.AssemblyInfo.cs
+D:\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.csproj.CoreCompileInputs.cache
+D:\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.dll
+D:\Pianino2\Pianino2\obj\Debug\net6.0\refint\Pianino2.dll
+D:\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.pdb
+D:\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.genruntimeconfig.cache
+D:\Pianino2\Pianino2\obj\Debug\net6.0\ref\Pianino2.dll
